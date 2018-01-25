@@ -1,4 +1,4 @@
-# swagger-codegen-typescript-fetch
+# swagger-codegen-typescript-fetch-template
 
 swagger-codegen custom template for typescript fetch.
 
