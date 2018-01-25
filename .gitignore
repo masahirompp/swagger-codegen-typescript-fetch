@@ -1,2 +1,3 @@
 output/**
 !output/.swagger-codegen-ignore
+!output/api.ts
